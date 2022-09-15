@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.slide img {
+    height: 800px;
+}
+
+#sobremi {
+    font-family: 'Roboto', sans-serif;
+}
+
+#desafio {
+    font-family: 'Roboto', sans-serif;
+}
+
+.titulotarjeta {
+    color: #212529;
+    font-family: 'Roboto', sans-serif;
+}
+
+.textotarjeta {
+    font-family: 'Roboto', sans-serif;
+}
+
+.seccionform {
+    font-family: 'Roboto', sans-serif;
+    width: 800px;
+}
+
+.footer {
+    font-family: 'Roboto', sans-serif;
+}
